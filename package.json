@@ -1,0 +1,33 @@
+{
+  "name": "atv_pw2",
+  "version": "1.0.0",
+  "description": "Atividade da aula de Programação Web 2 com o professor Cristiano Corrêa, no curso de Desenvolvimento de Sistemas da Etec Antônio Furlan.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viictorst/atv_pw2.git"
+  },
+  "keywords": [
+    "pw2",
+    "nodejs",
+    "nodemon",
+    "sequelize",
+    "sql",
+    "json"
+  ],
+  "author": "Victor da Silva Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viictorst/atv_pw2/issues"
+  },
+  "homepage": "https://github.com/viictorst/atv_pw2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.1",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.33.0"
+  }
+}
